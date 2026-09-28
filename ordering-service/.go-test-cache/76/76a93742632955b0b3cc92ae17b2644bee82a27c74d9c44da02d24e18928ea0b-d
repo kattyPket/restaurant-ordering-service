@@ -1,0 +1,16 @@
+./ascii.go
+./ascii_amd64.go
+./byte_frequencies.go
+./cpu_amd64.go
+./memchr.go
+./memchr_amd64.go
+./memchr_class.go
+./memchr_class_amd64.go
+./memchr_digit.go
+./memchr_digit_amd64.go
+./memmem.go
+./simd.go
+./ascii_amd64.s
+./memchr_amd64.s
+./memchr_class_amd64.s
+./memchr_digit_amd64.s
